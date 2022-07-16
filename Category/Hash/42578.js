@@ -1,3 +1,6 @@
+/* 42578번 문제
+위장*/
+
 function solution(clothes) {
     let obj = new Object();
     let answer = 1;
