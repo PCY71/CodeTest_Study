@@ -1,3 +1,6 @@
+/* 118667번 문제
+두 큐 합 같게 만들기*/
+
 function solution(queue1, queue2) {
     let answer = -1;
     let sum1 = sum(queue1);
