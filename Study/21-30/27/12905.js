@@ -1,5 +1,6 @@
 /* 12905번 문제
 가장 큰 정사각형 찾기*/
+//개념 참고 https://minnnne.tistory.com/16
 
 function solution(board) {
     let answer = 0;
