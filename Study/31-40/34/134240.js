@@ -1,3 +1,6 @@
+/*134240번 문제
+푸드 파이트 대회*/
+
 function solution(food) {
     let table = '';
     for (let i = 1; i < food.length; i++) {
