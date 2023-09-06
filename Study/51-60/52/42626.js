@@ -1,6 +1,13 @@
 /*42626 문제
 더 맵게*/
 
+/** 1. Minheap
+ * size : heap 원소들의 개수 출력
+ * getMin : 최소값 출력
+ * swap : heap 구조 유지를 위해 원소 교환(push, pop에서 사용)
+ * push : heap에 원소 추가
+ * pop : heap에서 최소값 추출
+ */
 class MinHeap {
     constructor() {
         this.heap = [null];

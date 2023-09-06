@@ -1,3 +1,6 @@
+/*12943 문제
+콜라츠 추측*/
+
 function solution(num) {
     let count = 0;
     while (count < 500 && num !== 1) {
